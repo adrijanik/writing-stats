@@ -15,9 +15,16 @@
         <div class="content container">
             <div class="row">
                 <div class="col-md-8">
-				{% include '/home/writingstats/writing_stats/tracker/templates/tracker/line_chapters.html' %} {% include '/home/writingstats/writing_stats/tracker/templates/tracker/diff_chapters.html' %}
+                    <div id="wrap">
+                        <div id="left_col">    
+            				{% include '/home/writingstats/writing_stats/tracker/templates/tracker/line_chapters.html' %} 
+                        </div>
+                        <div id="right_col">
+                           {% include '/home/writingstats/writing_stats/tracker/templates/tracker/diff_chapters.html' %}
+                        </div>   
+                    </div>
 
-                {% for post in posts %}
+                    {% for post in posts %}
                     <div class="post">
                         <div class="date">
                             {{ post.published_date }}

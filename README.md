@@ -13,7 +13,7 @@ Website is created in Django and it just displays charts generated from Python s
 
 ### Words tracking script ###
 
-This script was created because I found it hard to stay on the track of writing daily certain amount of words so I decided to automate the work with handy Python solution and web interface that will clearly show me where am I. As I'm an enthusiastic vim and console user it is a console script. To get information about how to use it simply type: word_tracker --help
+This script was created because I found it hard to stay on the track of writing daily certain amount of words so I decided to automate the work with handy Python solution and web interface that will clearly show me where am I. As I'm an enthusiastic vim and console user it is a console script. To get information about how to use it simply type: python word_tracker.py --help
 
 ### Dependencies ###
 

@@ -17,11 +17,11 @@ This script was created because I found it hard to stay on the track of writing 
 
 ### Dependencies ###
 
-*Python 2.7
-*Django
-*pandas
-*numpy
-*pygal
+* Python 2.7
+* Django
+* pandas
+* numpy
+* pygal
 
 based on tutorial: http://tutorial.djangogirls.org/en/django_urls/
 

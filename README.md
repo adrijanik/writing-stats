@@ -4,9 +4,9 @@ based on tutorial: http://tutorial.djangogirls.org/en/django_urls/
 
 Writing stats is a Python script that allows to track progress of writing for several files in specified locations. 
 It also allows to push changes to the website and display them on charts. This is the project that was made for tracking my 
-NaNoWriMo(http://nanowrimo.org/) progress.
+[NaNoWriMo](http://nanowrimo.org/) progress.
 
-![alt text](https://github.com/adrijanik/writing-stats/writing_stats.png "website")
+![alt text](https://github.com/adrijanik/writing-stats/blob/master/writing_stats.png "website")
 
 ### website charts ###
 
